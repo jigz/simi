@@ -1,0 +1,14 @@
+name: Mirror
+
+on: [push, delete]
+
+jobs:
+  to_github:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v1
+      - uses: spyoungtech/mirror-action@master
+        with:
+          REMOTE: "https://github.com/jigz/simi.git"
+          GIT_USERNAME: jigz
+          GIT_PASSWORD: ${{ secrets.ACCESS_TOKEN }}

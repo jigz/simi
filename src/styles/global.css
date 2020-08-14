@@ -1,0 +1,27 @@
+@tailwind base;
+
+@font-face {
+  font-family: 'Quicksand';
+  src: local('Quicksand'),
+    url('/fonts/quicksand/Quicksand-VariableFont_wght.ttf') format('truetype');
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: local('Montserrat'),
+    url('/fonts/montserrat/Montserrat-VariableFont_wght.ttf') format('truetype');
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: 'Quicksand', monospace;
+}
+
+@tailwind components;
+@tailwind utilities;
+
+/* button:focus {
+  outline: none;
+} */
