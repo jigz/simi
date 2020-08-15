@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://gatsbyjs.org">
+    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+  </a>
+</p>
+
+# SimiJS
+
+All in One solution for components, icons and commonly used features.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
