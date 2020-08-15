@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+  <a href="https://simi.ghost.ph">
+    <img  src="https://raw.githubusercontent.com/ghostventures/simi/fdd4aeca6449b8a955426092ca840f7190893757/public/icons/favicon.svg" width="60" />
   </a>
 </p>
 
