@@ -1,7 +1,21 @@
 {
-  "name": "halfdone-next",
+  "name": "simijs",
   "version": "0.1.0",
-  "private": true,
+  "description": "SimiJS made by Ghost",
+  "homepage": "https://github.com/ghostventures/simi",
+  "author": "Jigz <jigzpalillo@gmail.com> (https://jigz.now.sh)",
+  "keywords": [
+    "typescript",
+    "package"
+  ],
+  "main": "./dist/index.ts",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "repository": {
+    "url": "git@github.com:ghostventures/simi.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",

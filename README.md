@@ -4,9 +4,21 @@
   </a>
 </p>
 
-# SimiJS
+<h1 align="center">
+  SimiJS
+</h1>
 
-All in One solution for components, icons and commonly used features.
+<p align="center">
+  All in One solution for components and commonly used features.
+</p>
+
+## Getting Started
+
+```bash
+npm install simijs
+# or
+yarn add simijs
+```
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
